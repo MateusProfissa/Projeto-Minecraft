@@ -1,0 +1,36 @@
+.body_plano_de_fundo {
+    background-image: url("https://i.ytimg.com/vi/Dg0IjOzopYU/maxresdefault.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#meu_canvas {
+    background-color: white;
+    border-style: ridge;
+    border-width: 10px;
+}
+
+h2 {
+    width: 200px;
+    padding: 5px;
+    border-radius: 10px;
+} 
+h3 {
+    display: inline-block;
+}
+
+.btn-danger {
+    width: 600px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.btn-primary {
+    display: inline-block;
+}
+a {
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px;
+    float: right;
+    border-radius: 10px;
+}
